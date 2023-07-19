@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumamarahim
 - 👀 I’m interested in learning programming and new tech skills
-- 🌱 I’m currently learning python, php, c and c++ 
+- 🌱 I’m currently learning python, php, JavaScriopt and TypeScript for web3 and Metaverse 
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me on programming
 
