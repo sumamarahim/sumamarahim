@@ -37,7 +37,6 @@ I am a Full Stack Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 💞️ I’m looking to collaborate on programming and coding
 - 📫 How to reach me on programming
 -- :email: sumama.rahim@yandex.com
--- 📃: https://bit.ly/reachSRY
 -- [![Linkedin Badge](https://img.shields.io/badge/-sumamarahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://bit.ly/INsmhm)
 
 - :telescope: I’m learning the modern web3 and AI for building web applications that can help with you in your business.
