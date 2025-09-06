@@ -13,34 +13,50 @@ You can click the Preview link to take a look at your changes.
   </a>
 </div>
 
-<!--
-<img src="https://komarev.com/ghpvc/?username=sumamarahim&style=flat-square&color=blue" alt=""/> -->
+---
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
 ---
 
-  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me  
 
-I am a Full Stack Learner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the rest of the world.
+I am a **Computer Science student** and a **Full Stack Learner** 🌱 currently exploring different technologies and improving my programming skills.  
 
-- 👀 I’m interested in learning programming and new tech skills
-- 💞️ I’m looking to collaborate on programming and coding
-- 📫 How to reach me on programming
--- :email: sumama.rahim@yandex.com
--- [![Linkedin Badge](https://img.shields.io/badge/-sumamarahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://bit.ly/INsmhm)
+- 🔭 I’m currently learning and practicing **C++, Java, JavaScript, TypeScript, PHP, and SQL**.  
+- 📚 I enjoy writing articles, sharing solutions, and giving back to the community.  
+- 🌍 I actively contribute on **Reddit, Quora, and Stack Overflow**, helping others solve technical problems.  
+- 🤝 I’m open to collaborating on **projects, coding challenges, and tech discussions**.  
+- 📫 How to reach me: **sumama.rahim@yandex.com**  
+- 💼 [![Linkedin Badge](https://img.shields.io/badge/-sumamarahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://bit.ly/INsmhm)  
 
-- :telescope: I’m learning the modern web3 and AI for building web applications that can help with you in your business.
+---
 
-- :seedling: Exploring New Technology.
+### 🛠️ Languages & Tools  
 
-- :zap: In my free time, I solve problems on reddit & stackoverflow community and read tech articles.
+<div>
+  <!-- Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+
+  <!-- Tools -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+</div>
+
+---
+
+⚡ *I believe in learning by building, sharing knowledge, and helping others grow in the tech community.*
