@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 <h1>
-  Hey there!
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -59,4 +59,18 @@ I am a **Computer Science student** and a **Full Stack Learner** 🌱 currently 
 
 ---
 
-⚡ *I believe in learning by building, sharing knowledge, and helping others grow in the tech community.*
+### 📊 GitHub Stats  
+
+<div align="center">
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumamarahim&show_icons=true&theme=tokyonight)  
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumamarahim&theme=tokyonight)  
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumamarahim&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+⚡ *I believe in learning
