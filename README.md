@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 I am a **Computer Science student** and a **Full Stack Learner** 🌱 currently exploring different technologies and improving my programming skills.  
 
-- 🔭 I’m currently learning and practicing **C++, Java, JavaScript, TypeScript, PHP, and SQL**.  
+- 🔭 learning and practicing **Programming**.  
 - 📚 I enjoy writing articles, sharing solutions, and giving back to the community.  
 - 🌍 I actively contribute on **Reddit, Quora, and Stack Overflow**, helping others solve technical problems.  
 - 🤝 I’m open to collaborating on **projects, coding challenges, and tech discussions**.  
