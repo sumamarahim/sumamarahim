@@ -22,55 +22,26 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ### 👨‍💻 About Me  
 
 I am a **Computer Science student** and a **Full Stack Learner** 🌱 currently exploring different technologies and improving my programming skills.  
 
-- 🔭 learning and practicing **Programming**.  
-- 📚 I enjoy writing articles, sharing solutions, and giving back to the community.  
-- 🌍 I actively contribute on **Reddit, Quora, and Stack Overflow**, helping others solve technical problems.  
-- 🤝 I’m open to collaborating on **projects, coding challenges, and tech discussions**.  
-- 📫 How to reach me: **sumama.rahim@yandex.com**  
+- 🔭 I am actively learning and practicing **Programming**.  
+- 📚 I enjoy doing nothing and giving back to the community.  
+- 🤝 I am open to collaborating on **projects, coding challenges & contests, hackathons, and tech discussions**.  
+- 📫 How to reach me (email): **sumama.rahim@yandex.com**  
 - 💼 [![Linkedin Badge](https://img.shields.io/badge/-sumamarahim-blue?style=flat&logo=Linkedin&logoColor=white)](https://bit.ly/INsmhm)  
 
 ---
 
-### 🛠️ Languages & Tools  
 
-<div>
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-</div>
-
----
-
-### 📊 GitHub Stats  
+### 📊 At a glance
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumamarahim&show_icons=true&theme=tokyonight)  
-
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumamarahim&theme=tokyonight)  
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumamarahim&layout=compact&theme=tokyonight)  
 
 </div>
 
 ---
-
-⚡ 
